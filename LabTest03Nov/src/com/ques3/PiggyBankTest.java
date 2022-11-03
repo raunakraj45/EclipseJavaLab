@@ -16,7 +16,7 @@ public class PiggyBankTest {
 	public static void main(String[] args) {
 		
 		// creating an object of MyPiggiBank
-		PiggyBankTest piggi= new PiggyBankTest();
+		PiggyBank piggi= new PiggyBank();
 		//creating an object of scanner 
 		Scanner sc = new Scanner(System.in);
 		//declaring a variable
@@ -54,9 +54,5 @@ public class PiggyBankTest {
 		sc.close();
 
 } //end of main method
-	private String addMoney(double amount) {
-		// TODO Auto-generated method stub
-		return null;
-	}
 		
 		} // end of class
