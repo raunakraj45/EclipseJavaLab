@@ -1,7 +1,6 @@
 /*
  * Program: create a record of students using array in java
-*  write a java program to find common elements of 2 different arrays
-*  get students marks in array,hen print rank along with names
+ * write a java program to find common elements of 2 different arrays
  * @Author: Raunak Raj
  * @Date: 10/11/2022
  * */
