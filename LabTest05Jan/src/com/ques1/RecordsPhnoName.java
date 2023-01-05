@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class RecordsPhnoName {
 	public static void main(String args[]) {
 		try {
-			FileInputStream fis = new FileInputStream("//home/gcet/Desktop/myfile.txt");
+			FileInputStream fis = new FileInputStream("D://myfile.txt");
 			Scanner sc = new Scanner(fis).useDelimiter("\t");
 			Hashtable<String, String> ht = new Hashtable<String, String>();
 			String[] strarray;
